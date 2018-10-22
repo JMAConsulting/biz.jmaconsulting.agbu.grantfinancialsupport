@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<extension key="biz.jmaconsulting.agbu.grantfinancialsupport" type="module">
+  <file>grantfinancialsupport</file>
+  <name>Grant Financial Support</name>
+  <description>This extension allows a staff to create financial entries for Grant.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Monish Deb</author>
+    <email>everyone@jmaconsulting.biz</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/JMAConsulting/biz.jmaconsulting.agbu.grantfinancialsupport</url>
+    <url desc="Documentation">https://github.com/JMAConsulting/biz.jmaconsulting.agbu.grantfinancialsupport/master/blob/README.md</url>
+    <url desc="Support">https://github.com/JMAConsulting/biz.jmaconsulting.agbu.grantfinancialsupport/issues</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2018-10-22</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>5.7</ver>
+  </compatibility>
+  <requires>
+    <ext>biz.jmaconsulting.grantprograms</ext>
+  </requires>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/GrantFinancialSupport</namespace>
+  </civix>
+</extension>
