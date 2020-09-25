@@ -1,7 +1,7 @@
 <?php
 
 require_once 'grantfinancialsupport.civix.php';
-use CRM_Grantfinancialsupport_ExtensionUtil as E;
+use CRM_GrantFinancialSupport_ExtensionUtil as E;
 
 /**
  * Implements hook_civicrm_config().
